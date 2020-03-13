@@ -1,6 +1,3 @@
-# tfx-nvidia-gpu
-
-
 # Tensorflow TFX with NVIDIA drivers
 
 Tensorflow TFX with NVIDIA drivers included for easy usage; it can be used on TFX pipelines on Kubeflow where the underlying Kubernetes have supported GPU nodes.
