@@ -6,9 +6,9 @@ Tensorflow TFX with NVIDIA drivers included for easy usage; it can be used on TF
 
 Refer this image into TFX pipeline.
 
-### Prerequisities
+### Requirements
 
-In order to run this container you'll Tensorflow TFX.
+In order to run this container you need a Kubeflow installation with NVIDIA GPU enabled nodes.
 
 ## Contributing
 
