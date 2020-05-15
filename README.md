@@ -10,6 +10,11 @@ Refer this image into TFX pipeline.
 
 In order to run this container you need a Kubeflow installation with NVIDIA GPU enabled nodes.
 
+### Usage
+
+In TFX Kubeflow pipeline image must be set to customa value: `valerianomanassero/tfx-nvidia-gpu:<version>`
+Images available tags are on https://hub.docker.com/r/valerianomanassero/tfx-nvidia-gpu/tags
+
 ## Contributing
 
 Please read [CONTRIBUTING](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
